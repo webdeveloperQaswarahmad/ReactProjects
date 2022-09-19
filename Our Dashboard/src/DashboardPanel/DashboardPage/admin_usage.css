@@ -1,0 +1,102 @@
+.sidebar {
+  height: 100vh;
+  color: #f6f3ec;
+}
+.dashboard {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #f6f3ec;
+}
+.users {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #f6f3ec;
+}
+.admins {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #f6f3ec;
+}
+.logout {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 400px;
+  color: #f6f3ec;
+}
+.yourdashboard {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #33454f;
+  margin-top: 35px;
+}
+.totalusers {
+  background: rgb(219, 210, 210);
+  width: 1rem;
+  height: 18vh;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  width: 1rem;
+  line-height: 22px;
+  text-align: center;
+
+  background: #e5ecef;
+}
+.packages {
+  background: rgb(219, 210, 210);
+
+  height: 15vh;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+
+  background: #e5ecef;
+}
+.activeusers {
+  background: #e5ecef;
+  width: 1rem;
+  height: 18vh;
+}
+.active{
+  
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+text-align: center;
+
+color: #313131;
+
+}
+.userusagelogout{
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 400px;
+  color: #f6f3ec;
+}

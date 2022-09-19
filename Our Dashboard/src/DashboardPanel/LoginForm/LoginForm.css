@@ -1,0 +1,76 @@
+.heading1 {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+
+  height: 100vh;
+  color: white;
+}
+.container {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+.admindashboard {
+  color: gray;
+  font-size: 18px;
+}
+.adminpanel {
+  font-size: 24px;
+  font-weight: 600px;
+  font-family: "Fabriga Black";
+  font-style: normal;
+  line-height: 32px;
+}
+.emailadress {
+  color: gray;
+}
+.login {
+  font-family: "Montserrat";
+}
+.forgottenpassword {
+  color: gray;
+  letter-spacing: -0.01em;
+  line-height: 17px;
+  font-size: 14px;
+  font-family: "Montserrat";
+  font-style: normal;
+}
+.temporaryone {
+  border-bottom: 1px solid gray;
+}
+.temporarypassword {
+  /* width: 352px; */
+  font-family: "Gill Sans";
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  color: #000000;
+}
+.resendemail {
+  background-color: #36eb89;
+  color: #000000;
+  margin-top: 200px;
+  font-family: "Montserrat";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.copyright1 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  color: darkblue;
+  font-size: 12px;
+  padding-top: 100px;
+}
+
+.copyright2 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  color: darkblue;
+  font-size: 12px;
+  padding-top: 215px;
+}

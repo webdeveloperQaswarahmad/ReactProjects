@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "kyc": "Yes",
+      "email": "hi@gmail.com",
+      "date": "2022-09-02",
+      "active": "2022-09-02",
+      "number": "87654",
+      "subscription": "Yes",
+      "action": "Delete",
+      "id": 1
+    },
+    {
+      "kyc": "No",
+      "email": "harry@gmail.com",
+      "date": "2021-09-02",
+      "active": "2020-09-02",
+      "number": "876500",
+      "subscription": "Yes",
+      "action": "Delete",
+      "id": 2
+    },
+    {
+      "kyc": "Yes",
+      "email": "well@gmail.com",
+      "date": "2022-07-02",
+      "active": "2021-05-02",
+      "number": "874",
+      "subscription": "No",
+      "action": "Delete",
+      "id": 3
+    }
+  ]
+}
